@@ -4,7 +4,7 @@ Analyses include:
 - Microbial community composition
 - Alpha and beta diversity analyses
 - WGCNA
-- Ecological niche breadth
+- niche breadth
 - LEfSe
 - SourceTracker
 - Co-occurrence network analysis
